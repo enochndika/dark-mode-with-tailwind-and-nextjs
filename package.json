@@ -8,14 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.3",
+    "next": "^10.0.5",
     "next-themes": "^0.0.10",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
   "devDependencies": {
-    "postcss": "^8.1.13",
-    "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^2.0.1"
+    "autoprefixer": "^10.2.3",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
   }
 }
